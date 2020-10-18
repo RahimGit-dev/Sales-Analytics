@@ -10,6 +10,6 @@ as well as the python notebook used to conduct this analysis
 - pandas
 - glob
 
-## Goal
+## Objective
 This project is a good measure of basic data processing and analytics using pandas.
 There are a series of questions that must be answered, data visualization was also used.
